@@ -4,6 +4,5 @@ The Main application is
 1) Main.java
 2) Controller.java
 3) login.fxml
-4) signup.fxml
+4) signup1.fxml
 
-All other files are outdated and irrelevent.
